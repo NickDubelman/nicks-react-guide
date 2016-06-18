@@ -1,13 +1,10 @@
 import React, { Component } from 'react'
+import Hello from './hello'
 
 export default class App extends Component {
   render() {
     return (
-      <h1 style={center}>Nick's Simple React Starter Kit</h1>
+      <Hello />
     )
   }
-}
-
-let center={
-  textAlign: "center"
 }
