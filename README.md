@@ -1,6 +1,6 @@
-# Nick's React Starter Kit
+# Nick's React Guide
 
-A starter kit for people learning React. 
+A beginner's guide to React. 
 
 ## Packages:
 * React (and ReactDOM)
